@@ -1,0 +1,13 @@
+canvas {
+    background-color: rgb(223, 223, 223);
+    border-style: solid;
+    border-radius: 7px;
+    border-width: 3px;
+    border-color: black;
+    display: inline;
+    margin: auto;
+}
+body {
+    text-align: center;
+    padding-bottom: 1000px;
+}
