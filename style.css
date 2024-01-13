@@ -4,10 +4,4 @@ canvas {
     border-radius: 7px;
     border-width: 3px;
     border-color: black;
-    display: inline;
-    margin: auto;
-}
-body {
-    text-align: center;
-    padding-bottom: 1000px;
 }
